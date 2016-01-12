@@ -1,7 +1,7 @@
 {
     "name": "oxid-esales/coding-standards",
     "description": "OXID eShop coding standards",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "type": "library",
     "keywords": ["oxid", "standards", "eShop"],
     "homepage": "https://www.oxid-esales.com/en/home.html",
