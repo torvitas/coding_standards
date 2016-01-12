@@ -13,7 +13,7 @@
         }
     },
     "require": {
-        "squizlabs/php_codesniffer": "2.3.1"
+        "squizlabs/php_codesniffer": "~2.5"
     },
     "bin": [
         "bin/phpcsoxid"
